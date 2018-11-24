@@ -1,0 +1,7 @@
+C:\Users\Calazans\source\repos\TesteHabilidade\TesteHabilidade\bin\Debug\TesteHabilidade.exe.config
+C:\Users\Calazans\source\repos\TesteHabilidade\TesteHabilidade\bin\Debug\TesteHabilidade.exe
+C:\Users\Calazans\source\repos\TesteHabilidade\TesteHabilidade\bin\Debug\TesteHabilidade.pdb
+C:\Users\Calazans\source\repos\TesteHabilidade\TesteHabilidade\obj\Debug\TesteHabilidade.csprojAssemblyReference.cache
+C:\Users\Calazans\source\repos\TesteHabilidade\TesteHabilidade\obj\Debug\TesteHabilidade.csproj.CoreCompileInputs.cache
+C:\Users\Calazans\source\repos\TesteHabilidade\TesteHabilidade\obj\Debug\TesteHabilidade.exe
+C:\Users\Calazans\source\repos\TesteHabilidade\TesteHabilidade\obj\Debug\TesteHabilidade.pdb
