@@ -23,10 +23,11 @@ namespace TesteHabilidade
             Rotinas r = new Rotinas();
 
             double salarioMinimo = 0.0;
-            int index = 0; //Variavel para controlar o indice se inserção na lista.
+            int index = 0; //Variavel para controlar o indice de inserção na lista.
+            int cpfInvalido = 0;
 
             //Laço para capturar as informação dos contribuintes.
-            while (true)
+            while (cpfInvalido != 1)
             {
 
                 Console.Clear();
@@ -48,7 +49,10 @@ namespace TesteHabilidade
                 else
                 {
                     if (r.validaCPF(c.cpf) == 1) //Condição para finalizar cadastros.
-                        break;
+                    {
+                        cpfInvalido = 1;
+                        continue;
+                    }
 
                     Console.Write("Informe um CPF válido. ");
                     Thread.Sleep(2000);
